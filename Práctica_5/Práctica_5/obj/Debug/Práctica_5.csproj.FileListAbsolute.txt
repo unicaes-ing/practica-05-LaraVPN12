@@ -1,0 +1,6 @@
+c:\users\rossy\documents\visual studio 2013\Projects\Práctica_5\Práctica_5\bin\Debug\Práctica_5.exe.config
+c:\users\rossy\documents\visual studio 2013\Projects\Práctica_5\Práctica_5\bin\Debug\Práctica_5.exe
+c:\users\rossy\documents\visual studio 2013\Projects\Práctica_5\Práctica_5\bin\Debug\Práctica_5.pdb
+c:\users\rossy\documents\visual studio 2013\Projects\Práctica_5\Práctica_5\obj\Debug\Práctica_5.csprojResolveAssemblyReference.cache
+c:\users\rossy\documents\visual studio 2013\Projects\Práctica_5\Práctica_5\obj\Debug\Práctica_5.exe
+c:\users\rossy\documents\visual studio 2013\Projects\Práctica_5\Práctica_5\obj\Debug\Práctica_5.pdb
